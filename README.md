@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CarlWheezerOfficial
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning JS.
-- 💞️ I’m looking to collaborate on Nothing at the mmoment.
-- 📫 How to reach me don't right now.
+- 🌱 I’m currently learning Unity, JS.
+- 💞️ I’m looking to collaborate on ehat I'm needed on.
+- 📫 How to reach me, don't.
 
 <!---
 CarlWheezerOfficial/CarlWheezerOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
